@@ -17,6 +17,7 @@ The project extends beyond environmental metrics. We also monitor the social use
 
 # Key Benefits
 
+| | |
 | --- | --- |
 | **Environmental** | Urban Heat Island Mitigation: Provides quantifiable data on the cooling effects of the green wall and canopy structure on the adjacent building and immediate microclimate. | 
 | **Ecological** | Biodiversity Net Gain: Enables robust, continuous monitoring of species (birds, bats) and habitat usage to measure the effectiveness of the Nature-Based Solution (NBS) design. |
