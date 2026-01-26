@@ -7,7 +7,7 @@ This repo contains information on the sensors used, installation notes and point
 
 [UCL Estates Project Page](https://www.ucl.ac.uk/estates/our-services/campus-works/bicentennial-physical-legacy-works)
 
-![sketch](/sensors/gordonstreetsensors.jpeg)
+![sketch](/sensors/images/gordonstreetsensors.jpeg)
 _Overview of sensor locations_
 
 # Project Purpose
@@ -17,7 +17,7 @@ The project extends beyond environmental metrics. We also monitor the social use
 
 # Key Benefits
 
-| | |
+| Benefit | Description |
 | --- | --- |
 | **Environmental** | Urban Heat Island Mitigation: Provides quantifiable data on the cooling effects of the green wall and canopy structure on the adjacent building and immediate microclimate. | 
 | **Ecological** | Biodiversity Net Gain: Enables robust, continuous monitoring of species (birds, bats) and habitat usage to measure the effectiveness of the Nature-Based Solution (NBS) design. |
