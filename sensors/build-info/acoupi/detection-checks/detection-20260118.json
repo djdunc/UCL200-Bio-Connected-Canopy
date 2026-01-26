@@ -1,0 +1,267 @@
+{
+  "id": "971c2395-3ae7-4c6a-8086-a3d745f4cda7",
+  "name_model": "BatDetect2",
+  "recording": {
+    "created_on": "2026-01-18T17:20:17.140781",
+    "duration": 3,
+    "samplerate": 192000,
+    "deployment": {
+      "id": "ac09adbc-1716-42bf-b314-72e9bd90b8d6",
+      "name": "Acoupi N10",
+      "latitude": 51.59651039850613,
+      "longitude": -0.14748475357023907,
+      "started_on": "2026-01-17T18:18:50.639437",
+      "ended_on": null
+    },
+    "path": "/run/shm/20260118_172017.wav",
+    "audio_channels": 1,
+    "chunksize": 8192,
+    "id": "f9833d37-ca60-4520-bf08-9674c31dddb8"
+  },
+  "tags": [],
+  "detections": [
+    {
+      "id": "267e2ee9-48dd-4d8d-8ac0-a6171cc51533",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          0.7655,
+          46953,
+          0.7706,
+          61637
+        ]
+      },
+      "detection_score": 0.759,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.746
+        }
+      ]
+    },
+    {
+      "id": "4f9bcef4-958e-4ff6-bdd9-91d2ff605aae",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.6585,
+          45234,
+          1.6654,
+          55161
+        ]
+      },
+      "detection_score": 0.756,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.741
+        }
+      ]
+    },
+    {
+      "id": "595f6f96-d28e-49ea-bd06-3d8a307fcdc6",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          0.4625,
+          46093,
+          0.4678,
+          58651
+        ]
+      },
+      "detection_score": 0.75,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.741
+        }
+      ]
+    },
+    {
+      "id": "67fd9b3c-7270-438f-8e60-a1e1de645b1e",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.5015,
+          45234,
+          1.5091,
+          53511
+        ]
+      },
+      "detection_score": 0.756,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.752
+        }
+      ]
+    },
+    {
+      "id": "990d8967-04cb-440b-8507-99bc6647d6a7",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          0.8595,
+          46093,
+          0.8643,
+          67260
+        ]
+      },
+      "detection_score": 0.777,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.765
+        }
+      ]
+    },
+    {
+      "id": "9a1a0f04-175e-47d8-8066-8ca562ffeaf6",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.2385,
+          46093,
+          1.2437,
+          64767
+        ]
+      },
+      "detection_score": 0.781,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.771
+        }
+      ]
+    },
+    {
+      "id": "b1852fc0-3d09-4b20-bd11-892ed117eadd",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.0435,
+          46093,
+          1.0486,
+          66925
+        ]
+      },
+      "detection_score": 0.799,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.783
+        }
+      ]
+    },
+    {
+      "id": "c4eb75a8-3553-45f3-90a1-90b6173b59c1",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.1425,
+          46953,
+          1.1473,
+          62960
+        ]
+      },
+      "detection_score": 0.757,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.733
+        }
+      ]
+    },
+    {
+      "id": "debdd247-c154-471d-9dc1-8de44e3b7217",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.4005,
+          45234,
+          1.4072,
+          64986
+        ]
+      },
+      "detection_score": 0.751,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.681
+        }
+      ]
+    },
+    {
+      "id": "ed88869c-f97f-4355-a4a7-4937dbc5e5be",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          0.6755,
+          46953,
+          0.6801,
+          60482
+        ]
+      },
+      "detection_score": 0.715,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.709
+        }
+      ]
+    },
+    {
+      "id": "f47c06b6-95ef-425c-9607-ced8db2c3cd9",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          0.9495,
+          46953,
+          0.9542,
+          62206
+        ]
+      },
+      "detection_score": 0.772,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.757
+        }
+      ]
+    }
+  ],
+  "created_on": "2026-01-18T17:20:22.605739"
+}

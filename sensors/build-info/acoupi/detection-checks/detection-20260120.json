@@ -1,0 +1,47 @@
+{
+  "id": "a0fcb935-96d9-40ec-ba2a-76e56b8ee817",
+  "name_model": "BatDetect2",
+  "recording": {
+    "created_on": "2026-01-20T17:44:33.563194",
+    "duration": 3,
+    "samplerate": 192000,
+    "deployment": {
+      "id": "a0e1cb68-1109-4248-887e-12fe0fb6f12e",
+      "name": "acoupi-bat-N10-allotment",
+      "latitude": 51.59651039850613,
+      "longitude": -0.14748475357023907,
+      "started_on": "2026-01-19T23:08:11.431075",
+      "ended_on": null
+    },
+    "path": "/run/shm/20260120_174433.wav",
+    "audio_channels": 1,
+    "chunksize": 8192,
+    "id": "289e120f-50cd-4f9d-bd09-3e8a13d6d72a"
+  },
+  "tags": [],
+  "detections": [
+    {
+      "id": "7ebecba6-2430-4cab-bbf5-d99ef3654784",
+      "location": {
+        "type": "BoundingBox",
+        "coordinates": [
+          1.3405,
+          45234,
+          1.3474,
+          51603
+        ]
+      },
+      "detection_score": 0.707,
+      "tags": [
+        {
+          "tag": {
+            "key": "species",
+            "value": "Pipistrellus pipistrellus"
+          },
+          "confidence_score": 0.683
+        }
+      ]
+    }
+  ],
+  "created_on": "2026-01-20T17:44:38.993634"
+}

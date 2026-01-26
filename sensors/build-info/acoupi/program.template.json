@@ -1,0 +1,61 @@
+{
+    "timezone": "Europe/London",
+    "microphone": {
+        "device_name": "384kHz AudioMoth USB Microphone",
+        "samplerate": 384000,
+        "audio_channels": 1
+    },
+    "recording": {
+        "duration": 3,
+        "interval": 9,
+        "chunksize": 8192,
+        "schedule_start": "11:00:00",
+        "schedule_end": "10:59:00"
+    },
+    "paths": {
+        "tmp_audio": "/run/shm",
+        "recordings": "/home/pi/storages/recordings",
+        "db_metadata": "/home/pi/storages/metadata.db"
+    },
+    "messaging": {
+        "messages_db": "/home/pi/storages/messages.db",
+        "message_send_interval": 120,
+        "heartbeat_interval": 600,
+        "http": null,
+        "mqtt": {
+            "host": "mqtt.cetools.org",
+            "username": "CEDevice",
+            "password": "xxxxxxxx",
+            "topic": "UCL/GordonStreet/acoupi-bat",
+            "port": 1884,
+            "timeout": 5
+        }
+    },
+    "detections": {
+        "threshold": 0.6
+    },
+    "model": {
+        "detection_threshold": 0.7
+    },
+    "saving_filters": {
+        "starttime": "00:00:00",
+        "endtime": "00:00:00",
+        "before_dawndusk_duration": 60,
+        "after_dawndusk_duration": 60,
+        "frequency_duration": 0,
+        "frequency_interval": 0,
+        "saving_threshold": 0.5
+    },
+    "saving_managers": {
+        "true_dir": "bats",
+        "false_dir": "no_bats",
+        "timeformat": "%Y%m%d_%H%M%S",
+        "bat_threshold": 0.5
+    },
+    "summariser_config": {
+        "interval": 3600.0,
+        "low_band_threshold": 0.0,
+        "mid_band_threshold": 0.3,
+        "high_band_threshold": 0.7
+    }
+}
