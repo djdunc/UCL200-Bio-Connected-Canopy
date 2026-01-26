@@ -1,0 +1,29 @@
+{
+  "name_model": "BirdNET-Pi",
+  "recording": {
+    "created_on": "$dateT$time",
+    "latitude": $latitude,
+    "longitude": $longitude
+  },
+  "detections": [
+    {
+      "detection_score": $confidence,
+      "tags": [
+        {
+          "tag": {
+            "key": "common_name",
+            "value": "$comname"
+          },
+          "confidence_score": $confidence
+        },
+        {
+          "tag": {
+            "key": "scientific_name",
+            "value": "$sciname"
+          },
+          "confidence_score": $confidence
+        }
+      ]
+    }
+  ]
+}
