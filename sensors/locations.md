@@ -13,7 +13,7 @@ The Urban Heat Island Sensor will be mounted on the green wall, to record temper
 ### Pedestrianised Area (Under Canopy):
 The People Counter (VS121) will be centrally positioned under the canopy to accurately track usage and footfall in the covered space. An Urban Heat Island sensors will also be placed under the canopy to measure shading impact.
 
-![sketch](gordonstreetsensors.jpeg)
+![sketch](images/gordonstreetsensors.jpeg)
 _Overview of sensor locations_
 
 # Photos of Installed Sensors

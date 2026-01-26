@@ -2,7 +2,7 @@
 
 Below is a list of the planned sensors being installed. The overview sketch shows the approximate suggested locations, the table of data and images are provided as a guide for what will be installed.
 
-![sketch](gordonstreetsensors.jpeg)
+![sketch](images/gordonstreetsensors.jpeg)
 _Overview of sensor locations_
 
 
@@ -18,7 +18,7 @@ SKU DI-6510USB [WeatherLink 2.0 Windows Software & USB Data Logger](https://www.
 
 SKU DI-7716-00 [Mounting Tripod](https://www.weathershop.co.uk/accessories/spares-by-brands/davis-spare-parts-accessories/davis-7716-tripod)
 
-![Davis VP2](davisweather.jpeg)
+![Davis VP2](images/davisweather.jpeg)
 
 ### VS121 - People Counter
 
@@ -26,7 +26,7 @@ Vision based people counter (Milesight VS121) - counts the volume and flow of pe
 
 SKU VS121 [The USB C variant of the VS121](https://www.milesight.com/iot/product/lorawan-sensor/vs121)
 
-![VS121](vs121.jpeg)
+![VS121](images/vs121.jpeg)
 
 ### Clover Soil Sensor
 
@@ -34,13 +34,13 @@ Soil Moisture Sensor (Tektelic Clover) - monitors soil moisture levels to assess
 
 SKU Clover EU868 [TEKTELIC CLOVER Agriculture Soil Moisture Sensor Surface Version - EU868](https://connectedthings.store/gb/lorawan-sensors/agriculture-sensors/tektelic-agriculture-soil-moisture-sensor-surface-version.html)
 
-![Clover Soil Sensor](soil.jpeg)
+![Clover Soil Sensor](images/soil.jpeg)
 
 ### Microphone
 
 Acoupi (bespoke Raspberry Pi based sensor unit) - measures ambient sound to monitor species and general ecological activity of bats and birds. Records sound frequencies to identify and track avian life.	Installed on post on the green canopy. An existing installation is shown to give an indication of appearance. 
 
-![Acoupi](echobox.jpeg)
+![Acoupi](images/echobox.jpeg)
 
 Echobox Acoustic Sensor on lamp post (Bat / Bird Monitor)
 
@@ -48,7 +48,7 @@ Echobox Acoustic Sensor on lamp post (Bat / Bird Monitor)
 ### Camera
 Visual Sensor (bespoke Raspberry Pi based unit)	- live stream of  visual data (video) of green canopy to monitor species and general ecological activity. Installed on post on the green canopy and focused on patch of green roof. An existing installation is shown to give an indication of appearance.
 
-![Birdbox](birdbox.jpeg)
+![Birdbox](images/birdbox.jpeg)
 
 Birdbox Visual Sensor (Camera and Microphone) - shown here as blue "Bird House"
 
@@ -56,5 +56,5 @@ Birdbox Visual Sensor (Camera and Microphone) - shown here as blue "Bird House"
 
 Bespoke UHI Sensor - sensor	measures ambient air temperature and humidity to assess the direct cooling impact of the green infrastructure. Positioned to compare the microclimate adjacent to the green wall / canopy with the broader street environment. [Project Page](https://mandymadongyi.github.io/UrbanHeatSense.IoT/about.html).
 
-![Urban Heat Island Sensor](UHI.jpeg)
+![Urban Heat Island Sensor](images/UHI.jpeg)
 
